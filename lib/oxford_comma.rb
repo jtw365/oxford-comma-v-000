@@ -10,9 +10,4 @@ def oxford_comma(array)
     array.push(new_last_array)
     return array.join(", ")
   end
-
-
-  end
-
-  #binding.pry
 end
